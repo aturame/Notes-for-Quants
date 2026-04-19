@@ -42,13 +42,6 @@ The repository broadly follows this path:
 * Measure Theory (more rigorous path)
 * Applications in Quantitative Finance and Machine Learning
 
-Each chapter includes:
-
-* Conceptual explanations
-* Formal derivations
-* Worked examples
-* Problem sets
-* Code implementations (where relevant)
 
 ## Philosophy
 
